@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ToteRaya
+- 👀 I’m interested in learning to code and machine learning!
+- 🌱 I’m currently learning Python and Javascript
+- 💞️ I’m looking to collaborate on no one so back off >:|, haha jk
+- 📫 How to reach me [Insert LinkedIn Account Here]
